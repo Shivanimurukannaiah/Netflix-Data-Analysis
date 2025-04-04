@@ -38,7 +38,7 @@ The dataset consists of information about Netflix's movies and TV shows, includi
 ## 📷 Dashboard Preview  
 Here’s a snapshot of the **Netflix Data Analysis Dashboard**:  
 
-![Netflix Dashboard](Image-URL)  
+![Netflix Dashboard]([Image-URL](https://github.com/Shivanimurukannaiah/Netflix-Data-Analysis/blob/main/Image%25204-3-25%2520at%252011.08%25E2%2580%25AFPM.jpeg))  
 
 ---
 
