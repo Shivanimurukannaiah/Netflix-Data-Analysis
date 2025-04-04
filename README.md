@@ -18,8 +18,8 @@ Netflix has a massive collection of movies and TV shows spanning multiple genres
 ✅ **Trend Analysis (Movies & TV Shows Over Time)** – A stacked area chart showing how content has evolved over the years.  
 
 ## 🛠️ Tools & Technologies Used  
-- **Power BI / Tableau** – Data visualization and dashboard creation  
-- **Python / Pandas** – Data cleaning and preprocessing  
+- **Tableau** – Data visualization and dashboard creation  
+- **Pandas** – Data cleaning and preprocessing  
 - **SQL** – Data extraction and querying  
 - **Excel** – Initial data exploration  
 - **Dataset** – Netflix Movies & TV Shows dataset  
@@ -63,14 +63,6 @@ Want to improve this project? Feel free to:
 - Make modifications and submit a Pull Request  
 - Share insights or suggest new features  
 
----
 
-## 📢 Connect with Me  
-If you have any questions or suggestions, feel free to connect:  
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-📂 GitHub: [Your GitHub Profile]  
-
----
 
 ### ⭐ If you liked this project, consider giving it a **star** on GitHub! ⭐  
